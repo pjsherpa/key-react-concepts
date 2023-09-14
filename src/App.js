@@ -29,7 +29,7 @@ function App() {
     <div>
       <header>
         <img src={keyConeptsImage} alt="Medal bage with a star" />
-        <h1>Key React Comcepts</h1>
+        <h1>Key React Concepts</h1>
         <p>Selected key React concepts you should know about</p>
       </header>
       <ul id="concepts">
